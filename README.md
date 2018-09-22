@@ -2,7 +2,7 @@ This is an example of the StringCalculator kata done in javascript using the Jas
 
  StringCalculator Kata: http://osherove.com/tdd-kata-1/
 
- Jasmine: http://pivotal.github.com/jasmine/
+ Jasmine: https://jasmine.github.io/
 
  Download the files, open SpecRunner.html in a browser.  You should see the tests pass.
 
